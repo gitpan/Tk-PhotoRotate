@@ -11,6 +11,14 @@ DESCRIPTION
        the Tcl-ers' Wiki.  With assistance from George Staplin
        and Donal Fellows.
 
+INSTALLATION
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+	Sample program rotate is runnable after the make test phase.
+
 Steve Lidie
-2002/09/14
+2003/07/20
 sol0@lehigh.edu

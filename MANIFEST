@@ -1,7 +1,7 @@
 MANIFEST
 Makefile.PL
-PhotoRotate.pm
-PhotoRotateSimple.pm
+Tk/PhotoRotate.pm
+Tk/PhotoRotateSimple.pm
 README
 Icon.gif
 test.pl

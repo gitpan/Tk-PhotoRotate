@@ -1,4 +1,4 @@
-$Tk::PhotoRotate::VERSION = '1.0';
+$Tk::PhotoRotate::VERSION = '1.1';
 
 package Tk::Photo;
 
@@ -132,7 +132,7 @@ __END__
 
 =head1 NAME
 
-Tk::PhotoRotate - rotate Photos by abitrary angles.
+Tk::PhotoRotate - rotate Photos by arbitrary angles.
 
 =head1 SYNOPSIS
 
@@ -172,7 +172,7 @@ then idletasks() is called to update the image as it's being rotated.
 
 Stephen.O.Lidie@Lehigh.EDU
 
-Copyright (C) 2001 - 2002, Steve Lidie. All rights reserved.
+Copyright (C) 2001 - 2003, Steve Lidie. All rights reserved.
 
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
